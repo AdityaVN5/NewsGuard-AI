@@ -80,7 +80,7 @@ This project uses a Google Colaboratory notebook for the main news credibility a
         
         
 ## Working Screenshots
-
+![Screenshots/Screenshot 2025-04-01 212157.png](https://github.com/AdityaVN5/NewsGuard-AI/blob/main/Screenshots/Screenshot%202025-04-01%20212157.png)
 
 ## Usage
 
