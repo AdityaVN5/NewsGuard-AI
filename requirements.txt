@@ -1,0 +1,6 @@
+requests
+fake-useragent
+beautifulsoup4
+gradio
+minicheck @ git+https://github.com/Liyan06/MiniCheck.git@main
+nltk
